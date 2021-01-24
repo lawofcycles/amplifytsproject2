@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "tsproject2a411bf66": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
